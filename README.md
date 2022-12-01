@@ -11,7 +11,7 @@
     After you installed all the required packages, run "npm start"
 
 ## Live Site
-    Would be updated soon.
+    https://text.herokuapp.com/
 
 ## Mock Up
 <img src="1.png">
